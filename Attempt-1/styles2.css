@@ -1,0 +1,84 @@
+body { 
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+
+header {
+	float:left;  
+    background:#CABBB7; 
+    width:100%; 
+    height: 5em;
+    margin-bottom: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav {
+	float:left;
+	text-align: right;
+	background:#C65252;
+    width:100%; 
+    height: 3em;
+    margin-bottom: 1%;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#description {
+	float:left;  
+    width:100%; 
+    height: 3em;
+    margin-bottom: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#phone {
+	float:left;  
+    width:93.48%; 
+    height: 3em;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid green;
+}
+
+#leftbox { 
+    float:left;  
+    width:44%; 
+    height: 3em;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    border: 3px solid green;
+}
+
+#rightbox{ 
+    float:left; 
+    width:44%; 
+    height: 3em;
+    margin-left: 5%;
+    margin-bottom: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    border: 3px solid green;
+}
+
+#name{
+    float:left;  
+    background:#CABBB7; 
+    width:100%; 
+    height: 3em;
+    margin-bottom: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
