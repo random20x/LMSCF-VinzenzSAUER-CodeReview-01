@@ -1,0 +1,186 @@
+#one {
+	width: 800px;
+	height: 200px;
+	border: 3px solid green;
+	position: absolute;
+}
+
+#two{
+	position: absolute;
+	left: 0%;
+	width: 70%;
+	height: 99%;
+	border:  2px solid blue;
+}
+
+#three{
+	position: absolute;
+	left: 70%;
+	width: 30%;
+	height: 99%;
+	border: 2px solid red;
+}
+
+.photo-one{
+	width: 100%;
+  	height: 100%;
+  	object-fit: fill;
+  	border: 2px solid green;
+}	
+
+#four{
+	width: 800px;
+	height: 50px;
+	top: 200px;
+	border: 3px solid red;
+	position: relative; 
+}
+
+#five{
+	position: absolute;
+	left:  0%;
+	width: 55%;
+	height: 100%;
+	border: 1px solid green;
+}
+
+#six{
+	position: absolute;
+	left: 55%;
+	height: 100%;
+	border: 1px solid yellow;
+}
+
+#seven{
+	width: 600px;
+	height: 200px;
+	left: 100px;
+	top: 200px;
+	border: 3px solid red;
+	position: relative;
+}
+
+#eight{
+	padding-top: 50px;
+  	padding-right: 30px;
+  	padding-bottom: 50px;
+  	padding-left: 80px;
+  	text-align: center;
+}
+
+#nine{
+	width: 600px;
+	height: 200px;
+	left: 100px;
+	top: 200px;
+	border: 3px solid red;
+	position: relative;
+}
+
+#ten{
+	width: 100%;
+	height: 80%;
+	left: 0%;
+	border: 3px solid red;
+	position: relative;
+}
+
+#photo-two{
+	width: 100%;
+  	height: 100%;
+  	object-fit: fill;
+ }
+
+ #eleven{
+ 	width: 100%;
+ 	height: 12%;
+ 	position: relative;
+ 	border: 2px solid yellow;
+ 	text-align: center;
+ 	font-weight: bold;
+ 	padding-top: 3px;
+ }
+
+#twelve{
+	width: 600px;
+	height: 200px;
+	left: 108px;
+	top: 676px;
+	border: 3px solid red;
+	position: absolute;
+}
+
+#thirteen{
+	width: 45%;
+	height: 80%;
+	left: 0%;
+	border: 3px solid red;
+	position: absolute;
+}
+
+#fourteen{
+	width: 45%;
+	height: 80%;
+	left: 55%;
+	border: 3px solid red;
+	position: relative;
+}
+
+#fifteen{
+	width: 45%;
+ 	height: 12%;
+ 	position: absolute;
+ 	border: 2px solid yellow;
+ 	text-align: center;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	font-weight: bold;
+}
+
+#sixteen{
+	width: 45%;
+ 	height: 12%;
+ 	position: relative;
+ 	border: 2px solid yellow;
+ 	left: 55%;
+ 	text-align: center;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	font-weight: bold;
+ }
+
+ #photo-three{
+ 	width: 100%;
+  	height: 100%;
+  	object-fit: fill;
+ }
+
+ #photo-four{
+ 	width: 100%;
+  	height: 100%;
+  	object-fit: fill;
+ }
+
+ #seventeen{
+	width: 800px;
+	height: 200px;
+	top: 900px;
+	border: 3px solid green;
+	position: absolute;
+ }
+
+ #eighteen{
+ 	width: 200px;
+ 	height: 140px;
+ 	left: 37%;
+ 	border: 3px solid red;
+ 	position: relative;
+ }
+
+#nineteen{
+	width: 200px;
+	height: 52px;
+	left: 37%;
+	border: 3px solid blue;
+	position: relative;
+}
